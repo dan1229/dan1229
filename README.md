@@ -6,7 +6,7 @@
 - <dnaz@danielnazarian.com>
 
 🔭 I’m currently working on:
-- [BitBite.app](https://bitbite.app) - available at [online.BitBite.app](https://online.bitbite.app)
+- [BitBite.app](https://bitbite.app) - try it out at [online.BitBite.app](https://online.bitbite.app)
 - [DanielNazarian.com](https://danielnazarian.com) remake
 - NextJS with Typescript
 - Web3 - dapps with Solana and Eth
