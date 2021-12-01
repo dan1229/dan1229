@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+🔭 I’m currently working on:
+- [DanielNazarian.com](https://danielnazarian.com) remake
+- NextJS with Typescript
+- Web3 - dapps with Solana and Eth
+
+
+📫 How to reach me:
+- [Personal Site](https://danielnazarian.com)
+- [LinkedIn](www.linkedin.com/in/daniel-nazarian)
+- <dnaz@danielnazarian.com>
+
 <!--
 **dan1229/dan1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
