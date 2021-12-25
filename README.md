@@ -3,16 +3,17 @@
 📫 How to reach me:
 - [Personal Site](https://danielnazarian.com)
 - [LinkedIn](www.linkedin.com/in/daniel-nazarian)
+- [Blog](www.danielnazarian.com/blog)
 - <dnaz@danielnazarian.com>
 
 🔭 I’m currently working on:
-- [BitBite.app](https://bitbite.app) - try it out at [online.BitBite.app](https://online.bitbite.app)
 - Web3 - dapps with Solana and Etherium
-- [DanielNazarian.com](https://danielnazarian.com) remake and blog
+- [DanielNazarian.com/blog](https://danielnazarian.com/blog) my tech/project blog!
+- Pen testing toolkit
 - NextJS with Typescript
 
 ⚡ Fun facts:
-- TBD
+- dont.
 
 <!--
 **dan1229/dan1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
