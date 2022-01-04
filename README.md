@@ -1,5 +1,4 @@
-### Hi there 👋
-🐧🥸👹
+### Hi there 🐧🥸👹
 
 📫 How to reach me:
 - [Personal Site](https://danielnazarian.com)
