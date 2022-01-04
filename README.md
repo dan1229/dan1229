@@ -8,7 +8,7 @@
 - <dnaz@danielnazarian.com>
 
 🔭 I’m currently working on:
-- Web3 - dapps with Solana and Etherium
+- Web3 - learning about blocks, chains and the contracts that tie them together (primarily Eth/Solidity)
 - [DanielNazarian.com/blog](https://danielnazarian.com/blog) my tech/project blog!
 - Pen testing toolkit
 - NextJS with Typescript
