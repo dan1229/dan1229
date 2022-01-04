@@ -1,4 +1,5 @@
 ### Hi there 👋
+🐧🥸👹
 
 📫 How to reach me:
 - [Personal Site](https://danielnazarian.com)
@@ -14,6 +15,7 @@
 
 ⚡ Fun facts:
 - dont.
+
 
 <!--
 **dan1229/dan1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
