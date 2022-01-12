@@ -9,9 +9,11 @@
 🔭 I’m currently working on:
 - [DanielNazarian.com/blog](https://danielnazarian.com/blog) my tech/project blog!
 - Pen testing toolkit (coming to blog soon 👀)
-- Web3 - learning about blocks, chains and the contracts that tie them together (primarily Eth/Solidity)
+- Web3 - learning about blocks, chains and the contracts that tie them together
+  - Learning about DAOs
+  - primarily Eth/Solidity
 - Bootstrappers - Flutter and Django
-- NextJS with Typescript
+  - Trying a new front end stack: NextJS with Typescript
 
 ⚡ Fun facts:
 - dont.
