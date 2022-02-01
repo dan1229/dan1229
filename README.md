@@ -8,12 +8,10 @@
 
 🔭 I’m currently working on:
 - [DanielNazarian.com/blog](https://danielnazarian.com/blog) my tech/project blog!
-- Pen testing toolkit (coming to blog soon 👀)
-- Web3 - learning about blocks, chains and the contracts that tie them together
-  - Learning about DAOs
-  - primarily Eth/Solidity
 - Bootstrappers - Flutter and Django
   - Trying a new front end stack: NextJS with Typescript
+- Web3 - primarily Eth/Solidity and some Rust
+- Pen testing toolkit (coming to blog soon 👀)
 
 ⚡ Fun facts:
 - dont.
