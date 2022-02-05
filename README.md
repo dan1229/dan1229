@@ -10,7 +10,7 @@
 - [DanielNazarian.com/blog](https://danielnazarian.com/blog) my tech/project blog!
 - Bootstrappers - Flutter and Django
   - Trying a new front end stack: NextJS with Typescript
-- Web3 - primarily Eth/Solidity and some Rust
+- Web3 - primarily Eth/Solidity and Rust
 - Pen testing toolkit (coming to blog soon 👀)
 
 ⚡ Fun facts:
