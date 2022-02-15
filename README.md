@@ -8,10 +8,9 @@
 
 🔭 I’m currently working on:
 - [DanielNazarian.com/blog](https://danielnazarian.com/blog) my tech/project blog!
-- Bootstrappers - Flutter and Django
-  - Trying a new front end stack: NextJS with Typescript
+- VR games with Godot
+- Bootstrappers - Django + NextJS (TypeScript)
 - Web3 - primarily Eth/Solidity and Rust
-- Pen testing toolkit (coming to blog soon 👀)
 
 ⚡ Fun facts:
 - dont.
