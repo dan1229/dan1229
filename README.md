@@ -9,7 +9,6 @@
 🔭 I’m currently working on:
 - [DanielNazarian.com/blog](https://danielnazarian.com/blog) my tech/project blog!
 - VR games with Godot
-- Web3 - primarily Eth/Solidity and Rust
 
 ⚡ Fun facts:
 - dont.
