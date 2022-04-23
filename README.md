@@ -2,8 +2,8 @@
 
 📫 How to reach me:
 - [Personal Site](https://danielnazarian.com)
-- [LinkedIn](https://www.linkedin.com/in/daniel-nazarian)
 - [Blog](https://www.danielnazarian.com/blog)
+- [LinkedIn](https://www.linkedin.com/in/daniel-nazarian)
 - <dnaz@danielnazarian.com>
 
 🔭 I’m currently working on:
