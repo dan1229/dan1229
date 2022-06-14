@@ -2,7 +2,7 @@
 
 📫 How to reach me:
 - [Personal Site](https://danielnazarian.com)
-- [Blog](https://www.danielnazarian.com/blog)
+- [Blog](https://blog.danielnazarian.com/blog)
 - [LinkedIn](https://www.linkedin.com/in/daniel-nazarian)
 - <dnaz@danielnazarian.com>
 
