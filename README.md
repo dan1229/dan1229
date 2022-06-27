@@ -9,7 +9,7 @@
 🔭 I’m currently working on:
 - Haskell 🔨
 - VR games with Godot 🥽
-- [DanielNazarian.com/blog](https://danielnazarian.com/blog) my tech/project blog! 📕
+- [Dan's Blog](https://blog.danielnazarian.com/blog/posts/) my tech/project blog! 📕
 
 ⚡ Fun facts:
 - dont.
