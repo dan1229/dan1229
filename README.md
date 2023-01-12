@@ -7,10 +7,9 @@
 - <dnaz@danielnazarian.com>
 
 🔭 I’m currently working on:
-- Elixir 🔨
+- Elixir and crawlers 🕷
 - Bootstrappers 🥾
 - [Get Twenty](www.gettwenty.com) ⏰
-- VR games with Godot 🥽
 - [Dan's Blog](https://blog.danielnazarian.com/blog/posts/) my tech/project blog! 📕
 
 ⚡ Fun facts:
