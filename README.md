@@ -9,7 +9,7 @@
 🔭 I’m currently working on:
 - Elixir and crawlers 🕷
 - Bootstrappers 🥾
-- [Get Twenty](www.gettwenty.com) ⏰
+- [Get Twenty](https://www.gettwenty.com) ⏰
 - [Dan's Blog](https://blog.danielnazarian.com/blog/posts/) my tech/project blog! 📕
 
 ⚡ Fun facts:
