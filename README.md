@@ -4,6 +4,7 @@
 - [Personal Site](https://danielnazarian.com)
 - [Blog](https://blog.danielnazarian.com/blog)
 - [LinkedIn](https://www.linkedin.com/in/daniel-nazarian)
+- [Get Starty](https://www.GetStarty.com)
 - <dnaz@danielnazarian.com>
 
 🔭 I’m currently working on:
