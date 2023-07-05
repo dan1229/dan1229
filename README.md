@@ -1,16 +1,15 @@
 ### Hi there 🐧🥸👹
 
 📫 How to reach me:
-- [Personal Site](https://danielnazarian.com)
-- [Blog](https://blog.danielnazarian.com/blog)
-- [LinkedIn](https://www.linkedin.com/in/daniel-nazarian)
-- [Get Starty](https://www.GetStarty.com)
-- <dnaz@danielnazarian.com>
+- [Personal Site](https://danielnazarian.com) 🕸
+- [Dan's Blog](https://blog.danielnazarian.com/blog/posts/) 📕
+- [LinkedIn](https://www.linkedin.com/in/daniel-nazarian) 🖇
+- <dnaz@danielnazarian.com> 📧
 
 🔭 I’m currently working on:
-- Bootstrappers 🥾
+- Building satellites with [Planet](https://www.planet.com/) 🛰
 - [Get Twenty](https://www.gettwenty.com) ⏰
-- [Dan's Blog](https://blog.danielnazarian.com/blog/posts/) my tech/project blog! 📕
+- [Get Starty](https://www.GetStarty.com) 💻
 
 ⚡ Fun facts:
 - dont.
