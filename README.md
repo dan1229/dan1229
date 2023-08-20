@@ -1,10 +1,10 @@
 ### Hi there 🐧🥸👹
 
-📫 How to reach me:
+☎️ How to reach me:
 - [Personal Site](https://danielnazarian.com) 🐊
 - [Dan's Blog](https://blog.danielnazarian.com/blog/posts/) 🙊
-- [LinkedIn](https://www.linkedin.com/in/daniel-nazarian) 👨‍✈️
-- <dnaz@danielnazarian.com> 📧
+- [LinkedIn](https://www.linkedin.com/in/daniel-nazarian) 📈
+- <dnaz@danielnazarian.com> 📬
 
 🧪 I’m currently working on:
 - Building satellites with [Planet](https://www.planet.com/) 🛰
