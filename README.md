@@ -8,8 +8,8 @@
 
 🧪 I’m currently working on:
 - Building satellites with [Planet](https://www.planet.com/) 🛰
-- [Get Twenty](https://www.gettwenty.com) 📆
-- [Get Starty](https://www.GetStarty.com) ⚡️
+- Helping people build their dreams with [Get Starty](https://www.GetStarty.com) ⚡️
+- Making business smarter with [Get Twenty](https://www.gettwenty.com) 📆
 
 🎉 Fun facts:
 - dont.
