@@ -27,7 +27,7 @@
 
 <p align="left">
   <a href="https://github.com/dan1229?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=dan1229&count_private=true&show_icons=true&hide=issues&theme=radical" alt="github readme stats" height="156"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dan1229&theme=tokyonight" alt="github readme stats" height="156"/>
   </a>
 </p>
 
