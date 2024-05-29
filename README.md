@@ -1,5 +1,15 @@
 ### Hi there 🐧🥸👹
 
+<p align="left">
+  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
+  <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" >
+  <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" >
+  <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+  
 ☎️ How to reach me:
 - [Personal Site](https://danielnazarian.com) 🐊
 - [Dan's Blog](https://blog.danielnazarian.com/blog/posts/) 🙊
@@ -8,11 +18,18 @@
 
 🧪 I’m currently working on:
 - Building satellites with [Planet](https://www.planet.com/) 🛰
-- Helping people build their dreams with [Get Starty](https://www.GetStarty.com) ⚡️
 - Making business smarter with [Get Twenty](https://www.gettwenty.com) 📆
+- Helping people build their dreams with [Get Starty](https://www.GetStarty.com) ⚡️
 
 🎉 Fun facts:
 - dont.
+
+
+<p align="left">
+  <a href="https://github.com/dan1229?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=dan1229&count_private=true&show_icons=true&hide=issues&theme=radical" alt="github readme stats" height="156"/>
+  </a>
+</p>
 
 
 <!--
