@@ -32,7 +32,7 @@
 🧪 I’m currently working on:
 - Building satellites with [Planet](https://www.planet.com/) 🛰
 - Making business smarter with [Get Twenty](https://www.gettwenty.com) 📆
-- Working with other sick projects and ventures at [Naztech Inc.](https://www.github.com/naz-inc)⚡️
+- Working with other incredible ventures at [Naztech Inc.](https://www.github.com/naz-inc)⚡️
 
 🎉 Fun facts:
 - dont.
