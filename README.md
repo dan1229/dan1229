@@ -34,6 +34,8 @@
 </p>
 
 
+---
+
   
 **☎️ How to reach me:**
 
@@ -63,8 +65,9 @@ Say hi - <dnaz@danielnazarian.com> 📬
 - dont.
 
 
+---
 
-**Want to work with me?**
+**💼👀 Want to work with me?**
 
 I’m always looking for exciting projects and collaborations. Let's talk [here](https://www.danielnazarian.com/work-with-me)⚡️
 
