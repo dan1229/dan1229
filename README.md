@@ -9,7 +9,8 @@
 <p>
 
 <p align='left'>
-  <img alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+  <img alt="django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green" />
+  <img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="nextjs" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
