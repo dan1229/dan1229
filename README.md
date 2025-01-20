@@ -1,4 +1,4 @@
-### Hi there 🐧🥸👹
+### Hi there 🐧👹
 
 <p align="left">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
