@@ -21,6 +21,7 @@
 
 <p align="left">
   <img alt="aws" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="google cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?&style=flat-square&logo=Google%20Cloud&logoColor=white" />
   <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" >
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
