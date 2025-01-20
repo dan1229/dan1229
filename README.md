@@ -23,21 +23,23 @@
 </p>
 
   
-☎️ How to reach me:
+**☎️ How to reach me:**
+
 - [Personal Site](https://danielnazarian.com) 🐊
 - [Dan's Blog](https://blog.danielnazarian.com/blog/posts/) 🙊
     - Now on [Substack](https://dnaz.substack.com) as well!
 - [LinkedIn](https://www.linkedin.com/in/daniel-nazarian) 📈
 - <dnaz@danielnazarian.com> 📬
 
-🧪 I’m currently working on:
+**🧪 I’m currently working on:**
+
 - Building space stuff with [Planet](https://www.planet.com/) 🛰🪐
 - Helping people make real connections with [GetTwenty](https://www.gettwenty.com) 📆
 - Honestly always tons of stuff [just ask!](https://danielnazarian.com/contact)
+- **Want to work with me? Learn more [here](https://www.danielnazarian.com/work-with-me)⚡️**
 
-**Want to work with me? Learn more [here](https://www.danielnazarian.com/work-with-me)⚡️**
+**🎉 Fun facts:**
 
-🎉 Fun facts:
 - dont.
 
 <!--
