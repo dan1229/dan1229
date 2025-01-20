@@ -26,13 +26,16 @@
 ☎️ How to reach me:
 - [Personal Site](https://danielnazarian.com) 🐊
 - [Dan's Blog](https://blog.danielnazarian.com/blog/posts/) 🙊
+    - Now on [Substack](https://dnaz.substack.com) as well!
 - [LinkedIn](https://www.linkedin.com/in/daniel-nazarian) 📈
 - <dnaz@danielnazarian.com> 📬
 
 🧪 I’m currently working on:
-- Building satellites with [Planet](https://www.planet.com/) 🛰
-- Making business smarter with [Get Twenty](https://www.gettwenty.com) 📆
-- Working with other incredible ventures at [Naztech Inc.](https://www.github.com/naz-inc)⚡️
+- Building space stuff with [Planet](https://www.planet.com/) 🛰🪐
+- Helping people make real connections with [GetTwenty](https://www.gettwenty.com) 📆
+- Honestly always tons of stuff [just ask!](https://danielnazarian.com/contact)
+
+**Want to work with me? Learn more [here](https://www.github.com/naz-inc)⚡️**
 
 🎉 Fun facts:
 - dont.
