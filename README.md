@@ -35,7 +35,7 @@
 - Helping people make real connections with [GetTwenty](https://www.gettwenty.com) 📆
 - Honestly always tons of stuff [just ask!](https://danielnazarian.com/contact)
 
-**Want to work with me? Learn more [here](https://www.github.com/naz-inc)⚡️**
+**Want to work with me? Learn more [here](https://www.danielnazarian.com/work-with-me)⚡️**
 
 🎉 Fun facts:
 - dont.
