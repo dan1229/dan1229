@@ -37,7 +37,7 @@
 ---
 
   
-**☎️ How to reach me:**
+#### **☎️ How to reach me:**
 
 [Personal Site](https://danielnazarian.com) 🐊
 Check out my portfolio, latest projects, and ways to collaborate.
@@ -52,7 +52,7 @@ Say hi - <dnaz@danielnazarian.com> 📬
 
 
 
-**🧪 I’m currently working on:**
+#### **🧪 I’m currently working on:**
 
 - Building space stuff with [Planet](https://www.planet.com/) 🛰🪐
 - Helping people make real connections with [GetTwenty](https://www.gettwenty.com) 📆
@@ -60,7 +60,7 @@ Say hi - <dnaz@danielnazarian.com> 📬
 
 
 
-**🎉 Fun facts:**
+#### **🎉 Fun facts:**
 
 - dont.
 
