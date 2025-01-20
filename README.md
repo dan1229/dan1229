@@ -8,6 +8,7 @@
 <p>
 
 <p align='left'>
+  <img alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
   <img alt="nextjs" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
