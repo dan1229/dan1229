@@ -48,7 +48,7 @@ Sharing insights on start ups the latest tech, productivity and so many more top
 [LinkedIn](https://www.linkedin.com/in/daniel-nazarian) 📈
 Connect for updates, opportunities, and discussions.
 
-**Say hi! 👋**
+**👋 Say hi!**
 
 - [dnaz@danielnazarian.com](mailto:dnaz@danielnazarian.com) 📬
 - [https://www.calendly.com/dnaz](https://www.calendly.com/dnaz) 📆
