@@ -51,10 +51,9 @@ Connect for updates, opportunities, and discussions.
 
 #### **🧪 I’m currently working on:**
 
-- Building space stuff with [Planet](https://www.planet.com/) 🛰🪐
+- Building satellites and space stuff with [Planet](https://www.planet.com/) 🛰🪐
 - Helping people make real connections with [GetTwenty](https://www.gettwenty.com) 📆
-- Honestly always exploring tons of stuff - [just ask!](https://danielnazarian.com/contact)
-
+- Working with startups and small businesses at [Naztech](https://www.danielnazarian.com/naztech) 🤝
 
 
 #### **🎉 Fun facts:**
