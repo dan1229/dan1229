@@ -1,7 +1,24 @@
 ### Hi there 🐧👹
 
-  
-#### **☎️ How to reach me:**
+
+#### **🧪 I’m currently working on:**
+
+- Building satellites and space stuff with [Planet](https://www.planet.com/) 🛰🪐
+- Improving real manufacturing lines with AI at [Preon](https://www.getpreon.com/) 🔧🤖
+- Helping pilots run smarter with [Closebright Co.](https://www.closebright.com/) ⭐️
+
+
+
+#### **🎉 Fun facts:**
+
+- dont.
+
+---
+
+**👋 Just say hi!**
+
+I’m always looking for exciting projects and collaborations. Learn more [here](https://www.danielnazarian.com/work-with-me)⚡️ or...
+
 
 [Personal Site](https://danielnazarian.com) 🐊
 Check out my portfolio, latest projects, and ways to collaborate.
@@ -13,29 +30,6 @@ Sharing insights on start ups the latest tech, productivity and so many more top
 Connect for updates, opportunities, and discussions.
 
 
-#### **🧪 I’m currently working on:**
-
-- Building satellites and space stuff with [Planet](https://www.planet.com/) 🛰🪐
-- Helping people make real connections with [GetTwenty](https://www.gettwenty.com) 📆
-- Working with startups and small businesses at [Naztech](https://www.danielnazarian.com/naztech) 🤝
-
-
-#### **🎉 Fun facts:**
-
-- dont.
-
-
----
-
-**💼👀 Want to work with me?**
-
-I’m always looking for exciting projects and collaborations. Learn more [here](https://www.danielnazarian.com/work-with-me)⚡️ or...
-
-
-**👋 Just say hi!**
-
-- [dnaz@danielnazarian.com](mailto:dnaz@danielnazarian.com) 📬
-- [https://www.calendly.com/dnaz](https://www.calendly.com/dnaz) 📆
 
 
 <!--
