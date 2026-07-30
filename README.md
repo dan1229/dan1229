@@ -4,7 +4,7 @@
 #### **🧪 I’m currently working on:**
 
 - Building satellites and space stuff with [Planet](https://www.planet.com/) 🛰🪐
-- Improving real manufacturing lines with AI at [Preon](https://www.getpreon.com/) 🔧🤖
+- Factories that think at [Preon](https://www.getpreon.com/) 🔧🤖
 - Helping pilots run smarter with [Closebright Co.](https://www.closebright.com/) ⭐️
 
 
@@ -13,23 +13,13 @@
 
 - dont.
 
----
 
-**👋 Just say hi!**
+**👋 Say hi:**
 
-I’m always looking for exciting projects and collaborations. Learn more [here](https://www.danielnazarian.com/work-with-me)⚡️ or...
-
-
-[Personal Site](https://danielnazarian.com) 🐊
-Check out my portfolio, latest projects, and ways to collaborate.
-
-[Dan's Blog](https://blog.danielnazarian.com/blog/posts/) 🙊
-Sharing insights on start ups the latest tech, productivity and so many more topics. Now on [Substack](https://dnaz.substack.com) as well!
-      
-[LinkedIn](https://www.linkedin.com/in/daniel-nazarian) 📈
-Connect for updates, opportunities, and discussions.
-
-
+- [Personal site](https://danielnazarian.com) 🐊
+- [Blog](https://blog.danielnazarian.com/blog/posts/) 🙊 and [Substack](https://dnaz.substack.com) 📬
+- [LinkedIn](https://www.linkedin.com/in/daniel-nazarian) 📈
+- [Work with me](https://www.danielnazarian.com/work-with-me) ⚡️
 
 
 <!--
